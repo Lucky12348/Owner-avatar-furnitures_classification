@@ -49,4 +49,4 @@ python train_model.py
 The API will be available at [http://localhost:80](http://localhost:80). You can access the web interface or use the API endpoints to predict and train the model.
 
 ### Demonstration
-`Coming soon.. :))`
+`Coming soon.. :)`
