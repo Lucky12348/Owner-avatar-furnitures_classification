@@ -14,14 +14,14 @@ We aim to develop a multimodal model capable of processing inputs such as images
 - **Image Input**: Enable users to take one or more photos (e.g., with a phone) and receive the furniture category, name, supplier, and, if available, a purchase URL.
 
 ## Resources
-- Model Repository
-- Datasets
+### [Model Repository](https://huggingface.co/Lucky12345/furniture_classifier_model/tree/main)
+### [Datasets](https://huggingface.co/datasets/Lucky12345/furnitures_dataset)
 
 ## Quick Start
 
 For those who prefer not to train the model themselves, a pre-trained model is available on Hugging Face. You can download it here.
 
-### Download the Model
+### [Download the Model](https://huggingface.co/Lucky12345/furniture_classifier_model/resolve/main/furniture_classifier_model.h5?download=true)
 
 After downloading, place the `furniture_classifier_model.h5` file in the `model` folder.
 
