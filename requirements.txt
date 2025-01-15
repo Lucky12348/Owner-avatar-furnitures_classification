@@ -5,3 +5,4 @@ numpy
 pillow
 keras
 pandas
+python-multipart
